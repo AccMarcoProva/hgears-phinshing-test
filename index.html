@@ -10,13 +10,22 @@
 
     <!-- add icon link -->
     <link rel="icon" href="hg logo.png" type="image/x-icon">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2R4G7NSYR2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-2R4G7NSYR2');
-    </script>
+    <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://hgearsphishingtest.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/hgearsphishingtest.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
 </head>
 
 <body lang=EN-US link=blue vlink=purple style='word-wrap:break-word'>
