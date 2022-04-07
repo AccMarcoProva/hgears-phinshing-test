@@ -16,5 +16,6 @@ This is valuable advice which can be applied both at work and at home.
 * Bootstrap 5 ([getbootstrap.com](https://getbootstrap.com/))
 ### Analytics
 * Matomo Analytics ([matomo.org](https://matomo.org/))
+**_[if an adblocker is active on the phishing awereness website matomo won't work]_**
 ### Quiz
 * Microsoft Forms ([forms.office.com](https://forms.office.com/))
