@@ -4,15 +4,15 @@ Site hosted on Github Pages containing tips for Anti-Phishing awareness, and mor
 These is valuable advice which can be applied both at work and at home.
 
 ## Site Structure:
-### Company Logo
-### Short Tips
-### Longer Advice
-### Short Quiz
+### + Company Logo
+### + Short Tips
+### + Longer Advice
+### + Short Quiz
 
 ## Infrastructure and Programs Used:
 ### User Interface
-Bootstrap 5 (getbootstrap.com)
+* Bootstrap 5 (getbootstrap.com)
 ### Analytics
-Matomo Analytics (matomo.org)
+* Matomo Analytics (matomo.org)
 ### Quiz
-Microsoft Forms (forms.office.com)
+* Microsoft Forms (forms.office.com)
