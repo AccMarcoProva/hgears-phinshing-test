@@ -11,8 +11,8 @@ These is valuable advice which can be applied both at work and at home.
 
 ## Infrastructure and Programs Used:
 ### User Interface
-* Bootstrap 5 (getbootstrap.com)
+* Bootstrap 5 ([getbootstrap.com](getbootstrap.com))
 ### Analytics
-* Matomo Analytics (matomo.org)
+* Matomo Analytics ([matomo.org](matomo.org))
 ### Quiz
-* Microsoft Forms (forms.office.com)
+* Microsoft Forms ([forms.office.com](forms.office.com))
