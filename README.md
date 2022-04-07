@@ -10,6 +10,8 @@ These is valuable advice which can be applied both at work and at home.
 ### + Short Quiz
 
 ## Infrastructure and Programs Used:
+### Host
+* Github Pages ([pages.github.com](https://pages.github.com/))
 ### User Interface
 * Bootstrap 5 ([getbootstrap.com](https://getbootstrap.com/))
 ### Analytics
