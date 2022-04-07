@@ -1,7 +1,7 @@
 # hgears-phinshing-test
 
 Site hosted on Github Pages containing tips for Anti-Phishing awareness, and more detailed documentation on how to avoid phishing and what to do if you fall for a phishing email.
-These is valuable advice which can be applied both at work and at home.
+This is valuable advice which can be applied both at work and at home.
 
 ## Site Structure:
 ### + Company Logo
