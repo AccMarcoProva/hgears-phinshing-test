@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="_paq.push(['trackEvent', 'Chiuso Pop-Up', 'Ha letto che il sito è un test', 'Ha iniziato a leggere la Documentazione', -1]);">Close</button>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
     <hr>
     <div class="d-flex justify-content-between">
         <div>
-            <a style="text-decoration:none;" href="HTTPS://HGEARS.COM" target="_blank">
+            <a style="text-decoration:none;" href="HTTPS://HGEARS.COM" target="_blank" onclick="_paq.push(['trackEvent', 'Verificato che il sito è di hGears', 'E' andato a verificare l'autenticità del sito', 'Verificato', 0]);">
                 <img class="w-50 p-3" class="img-thumbnail" src="hGears - logo.png" />
             </a>
         </div>
@@ -132,16 +132,16 @@
     <!-- Nav pills -->
     <ul class="nav nav-pills">
         <li class="nav-item">
-            <a class="nav-link active" data-bs-toggle="pill" href="#home" onclick="_paq.push(['trackEvent', 'eCommerce', 'Add to Wishlist', 'Smartphone', 1000]);">BASE</a>
+            <a class="nav-link active" data-bs-toggle="pill" href="#home" onclick="_paq.push(['trackEvent', 'BASE', 'Consigli Base', 'Visionato', 1]);">BASE</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#menu1" onclick="_paq.push(['trackEvent', 'eCommerce', 'Add to Wishlist', 'Smartphone', 1000]);">AVANZATO</a>
+            <a class="nav-link" data-bs-toggle="pill" href="#menu1" onclick="_paq.push(['trackEvent', 'AVANZATO', 'Consigli Avanzati', 'Visionato', 2]);">AVANZATO</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#menu2" onclick="_paq.push(['trackEvent', 'eCommerce', 'Add to Wishlist', 'Smartphone', 1000]);">ATTENZIONE</a>
+            <a class="nav-link" data-bs-toggle="pill" href="#menu2" onclick="_paq.push(['trackEvent', 'ATTENZIONE', 'Prestare Attenzione', 'Visionato', 3]);">ATTENZIONE</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="pill" href="#menu3" onclick="_paq.push(['trackEvent', 'menu3', 'LettoTutto', 'Fine', 4]);">COSA FARE IN CASO DI CLICK SU LINK IN MAIL DI PHISHING?</a>
+            <a class="nav-link" data-bs-toggle="pill" href="#menu3" onclick="_paq.push(['trackEvent', 'COSA FARE?', 'Cosa fare in caso di clic su email di phishing?', 'Fine', 4]);">COSA FARE IN CASO DI CLICK SU LINK IN MAIL DI PHISHING?</a>
         </li>
     </ul>
 
