@@ -17,6 +17,6 @@ This is valuable advice which can be applied both at work and at home.
 ### Analytics
 * Matomo Analytics ([matomo.org](https://matomo.org/))
 **_[if an adblocker is active on the phishing awereness website matomo won't work]_**
-1. Event Tracking [https://matomo.org/faq/reports/implement-event-tracking-with-matomo/](with matomo)
+1. Event Tracking [with matomo](https://matomo.org/faq/reports/implement-event-tracking-with-matomo/))
 ### Quiz
 * Microsoft Forms ([forms.office.com](https://forms.office.com/))
